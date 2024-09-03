@@ -1,0 +1,1 @@
+GramCam is used for visualizing the importance of different regions in an image, helping to understand which parts contribute most to a neural network's decision. It's commonly applied in tasks like image classification to provide interpretability to AI models.
